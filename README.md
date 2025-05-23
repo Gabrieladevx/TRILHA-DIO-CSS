@@ -15,8 +15,6 @@ Coloque as imagens na pasta `assets/images/`:
 ## Visual
 O site possui um visual moderno, com gradiente de azul escuro para preto no fundo e seções bem organizadas.
 
-## Licença
-Este projeto é livre para fins de estudo e portfólio.
-
----
-Desenvolvido para a trilha de CSS da DIO.
+## Como Usar
+Acesse diretamente pelo o Link abaixo:
+[https://gabrieladevx.github.io/TRILHA-DIO-CSS/]
